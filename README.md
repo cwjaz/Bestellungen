@@ -17,4 +17,4 @@
 ::Kühlschrank
 ::Zollstock(???)
 ::Kristallkugel
-
+::Gummiente
