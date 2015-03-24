@@ -18,3 +18,7 @@
 ::Zollstock(???)
 ::Kristallkugel
 ::Gummiente
+
+-------------------------------------
+semmis will gerne eine Discokugel ;)
+-------------------------------------
